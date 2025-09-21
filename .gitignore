@@ -2,3 +2,6 @@
 pytorch_venv/
 /pytorch_venv
 pytorch_venv
+
+.vscode
+.vscode/
